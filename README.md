@@ -14,7 +14,7 @@ If you want to get some advice on how to handle a specific Visualization task, o
 
 We will discuss your issue during the next SIG meeting.
 
-## Share your visualziation solutions
+## Share your visualization solutions
 
 Did you do something really cool? Share your experiences with the SIG! Please contact either of the the SIG chairs (Maarten van Meersbergen or Paul Melis) to schedule a short presentation.
 
