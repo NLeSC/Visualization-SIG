@@ -20,7 +20,7 @@ Did you do something really cool? Share your experiences with the SIG! Please co
 
 ## Previous and upcoming sessions
 
-| Date       | Topic                                  | Presenter |
-| ----------:|:--------------------------------------:|:--------- |
-| 2019-01-21 | 3D GeoInfo conference                  | Paul      |
+| Date       | Topic                                  | Presenter     | Abstract | Slides |
+| ----------:|:--------------------------------------:|:-------------:|:--------:|:------ |
+| 2019-01-21 | 3D GeoInfo conference                  | Paul Melis    | [Link](https://github.com/NLeSC/Visualization-SIG/blob/master/abstracts/20190121.md)     | TBA   |
 
