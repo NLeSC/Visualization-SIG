@@ -1,4 +1,4 @@
-# NLeSC/SURFsara joint Visualization and Computer Graphics Special Interest Group
+# NLeSC & SURFsara - Visualization and Computer Graphics Special Interest Group
 
 ## Advice on Visualization?
 
