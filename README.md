@@ -22,5 +22,5 @@ Did you do something really cool? Share your experiences with the SIG! Please co
 
 | Date       | Topic                                  | Presenter     | Abstract | Slides |
 | ----------:|:--------------------------------------:|:-------------:|:--------:|:------ |
-| 2019-01-21 | 3D GeoInfo conference                  | Paul Melis    | [Link](https://github.com/NLeSC/Visualization-SIG/blob/master/abstracts/20190121.md)     | [Link]((https://github.com/NLeSC/Visualization-SIG/blob/master/slides/3D GeoInfo 2018.pptx)   |
+| 2019-01-21 | 3D GeoInfo conference                  | Paul Melis    | [Link](https://github.com/NLeSC/Visualization-SIG/blob/master/abstracts/20190121.md)     | [Link](https://github.com/NLeSC/Visualization-SIG/blob/master/slides/3D GeoInfo 2018.pptx)   |
 
