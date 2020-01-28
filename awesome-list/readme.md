@@ -5,63 +5,79 @@ Interdisciplinary branch of science concerned with the visualization of scientif
 
 ## Contents
 - [Tools](#tools)
-    -[Tabular data](#tabular-data)
-    -[Visual programming](#visual-programming)
+    - [Basic data viz](#basic-data-viz)
+    - [Interactive data viz ](#interactive-data-viz)
+    - [Data exploration](#data-exploration)
+    - [Tabular data](#tabular-data)
+    - [3D](#3d)
+    - [Visual programming](#visual-programming)
+    - [Other](#other)
 - [Theory](#theory)
 - [Conferences](#conferences)
 
 ## Tools
- - Blender (april 15 advanced course surfsara)
- - Cairo, vector graphics lib
- - VTK, 3D visualization
- - D3 
- - DC.js
- - Vega(-lite), Altair
- - Ipy volume
- - paraview
- - neutron, neural network visualization
- - wandb, experiment tracking for deep learning
- - Bokeh
- - matplotlib (xkcd style!)
- - xrviz, explore netcdf 
- - unity
- - mrtk
- - Krita, open source photoshop
- - Inkscape, open source illustrator
- - three.js
- - cesium
- - ngl 
- - (cartodb, gis stuff, still awesome)
- - ospray
- - mapbox (not opensource)
- - geogebra (interactivity)
- - shiny, extention of R (interactivity)
- - ggplot2
- - plotnine
- - spot
+
+### Basic data viz
+- D3.js 
+- DC.js
+- Vega(-lite), Altair
+- matplotlib (xkcd style!)
+- iPyvolume
+- ggplot2
+- plotnine
+- [RAWGraphs](https://github.com/densitydesign/raw)
+
+### Interactive data viz 
+- Bokeh
+- [MapD-Charting](https://github.com/omnisci/mapd-charting)
+- xrviz, explore netcdf 
+- geogebra (interactivity)
+- shiny, extention of R (interactivity)
+- [Voila](https://github.com/voila-dashboards/voila)
 
 
-Find a place for this:
-https://github.com/apache/incubator-superset https://github.com/metabase/metabase https://github.com/grafana/grafana https://github.com/ddol/caravel https://github.com/elastic/kibana
+### Data exploration
+- [incubator-superset](https://github.com/apache/incubator-superset) 
+- [metabase](https://github.com/metabase/metabase)
+- [grafana](https://github.com/grafana/grafana)
+- [caravel](https://github.com/ddol/caravel)
+- [kibana](https://github.com/elastic/kibana)
 
-https://github.com/CartoDB/cartodb https://github.com/sverhoeven/docker-cartodb
-
-https://github.com/omnisci/mapd-charting
-
-https://github.com/vaexio/vaex
-
-https://github.com/densitydesign/raw
-
-https://github.com/voila-dashboards/voila
-
-https://datashader.org/
 
 ### Tabular data
-- Datashader
-- Vaex, visualize tabular data with billions of rows made possible by using lazy evaluations. Kinda like Datashader but then way faster. More info here https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861
+- [Datashader](https://datashader.org/)
+- [Vaex](https://github.com/vaexio/vaex)
+
+### 3D
+- [Blender](https://www.blender.org/) (april 15 advanced course surfsara)
+- three.js
+- VTK
+- paraview
+- unity
+- ngl 
+- ospray
+
+### Geo visualization
+- [cartodb](https://github.com/CartoDB/cartodb)
+- cesium
+- mapbox (not opensource)
 
 ### Visual programming
 - Rete.js, a node based interface for visual programming in javascript. A nifty framework to make your own custom node based interfaces, been using it now for a project and it gave a good base to build our own node based visualization interface. 
+- Netron, neural network visualization
+- wandb, experiment tracking for deep learning
+
+### Virtual/augmented reality
+ - mrtk
+
+### Creative tools
+- Krita, open source photoshop
+- Inkscape, open source illustrator
+- [Cairo](https://www.cairographics.org/), vector graphics lib
+
+### Other
+- [spot](https://spot.apache.org/)
+
 
 ## Theory
 - Edward Tufte, an American statistician known for his writings on information design and data visualization. https://www.edwardtufte.com/tufte/
