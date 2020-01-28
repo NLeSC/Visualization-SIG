@@ -29,8 +29,8 @@ Conversion notes:
 
 
 *   Put together awesome list while introducing ourselves: 
-*   GeoGebra presentation by Pablo ([https://www.geogebra.org/](https://www.geogebra.org/))
-*   Shiny presentation by Pablo ([https://shiny.rstudio.com/gallery/](https://shiny.rstudio.com/gallery/))
+*   GeoGebra example by Pablo R.. [Simulation of a curved mirror](https://www.geogebra.org/m/AvZE3XsV)
+*   Shiny example by Pablo R. [Lissajous figures](https://pabrod.shinyapps.io/Lissajous/)
 *   Own work feedback request by Peter Kok
     *   Peter made a visualization for one of his projects but he is not really satisfied and asks for feedback
 
