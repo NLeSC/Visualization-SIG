@@ -42,6 +42,7 @@ Interdisciplinary branch of science concerned with the visualization of scientif
 - [grafana](https://github.com/grafana/grafana)
 - [caravel](https://github.com/ddol/caravel)
 - [kibana](https://github.com/elastic/kibana)
+- [spot](https://spot.apache.org/)
 
 
 ### Tabular data
@@ -76,7 +77,6 @@ Interdisciplinary branch of science concerned with the visualization of scientif
 - [Cairo](https://www.cairographics.org/), vector graphics lib
 
 ### Other
-- [spot](https://spot.apache.org/)
 
 
 ## Theory
