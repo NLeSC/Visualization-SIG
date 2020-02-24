@@ -29,8 +29,8 @@ Conversion notes:
 
 
 *   Put together awesome list while introducing ourselves: 
-*   GeoGebra presentation by Pablo ([https://www.geogebra.org/](https://www.geogebra.org/))
-*   Shiny presentation by Pablo ([https://shiny.rstudio.com/gallery/](https://shiny.rstudio.com/gallery/))
+*   GeoGebra example by Pablo R.. [Simulation of a curved mirror](https://www.geogebra.org/m/AvZE3XsV)
+*   Shiny example by Pablo R. [Lissajous figures](https://pabrod.shinyapps.io/Lissajous/)
 *   Own work feedback request by Peter Kok
     *   Peter made a [visualization](https://vega.github.io/editor/#/url/vega-lite/N4KABGBEAkDODGALApgWwIaQFxUQFzwAdYsB6UgN2QHN0A6agSz0QFcAjOxge1IRQyUa6ALQAbZskoAWOgCtY3AHaQANOCgB3RgBMW2MAHYADKfURIKRtXwHDAVjMbIO9Hkw5QECwDNuAJww8A2AoPABPQmQDSHhYCkgwAF9zb0hWfzEY-CISciZYPAZmNnZWWGR-eGU8ZCUi6tRSAGt-ZFrCUngARgAOADYATnh7eHZpaQAmSZ0AZknpfvYTaV7J5HQdEYHu0n90TVJ7dDX+udHpdnRke17Z7sHun17uycNu+En7Q2vB2bP4MhkOxZqQJJp4JANClnHh9kpYH5AgYANoaCDASA+RhiWr+AD6ISxjGQYh0MWqrARpICaigymQAHkfKjuqowJN2bMALrJGHeMCY7G4yqEzzE0nknBY-zcVB0yAM5moyAAYQAMgBJACiADkACoK1WMgCquoAytr1YyAEqQXlJfneTHwdBieCsMRuaLS1x4VioOiU6liAJgADUYAA5NGI2A-QG6MLouzIOhYDFk-jgxVQ-5IEkNNzUpAMP5miF0WFIj6oIRuIx6moq5A8NxuLjGIQDHDWMhoSW6tUdI3qJWBZAAB7jgVQbGSmJtL14RhUfF+lNViwRKIxACOrHQ9WYblX0SrTos4RnE-nZMzOOQ2e4VNztNSE53tcgSjljbdzazlA6CTowGaeFuaTUP4ug9v4faQYWAqXlA1R5jeaR3lKqEviG76Qa2NYxL+qD-lkF4flAsCMAAXrWXizhK97SrqAbsJUYDcD4YBBEgyAZpR25EdKB5Hiu7grlQULIZRkCwIg6C7hBQFMdhMpyoBjFfsRf5KABF7QiAhZAA) for one of his projects but he is not really satisfied and asks for feedback
 
