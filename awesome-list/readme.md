@@ -62,6 +62,7 @@ Interdisciplinary branch of science concerned with the visualization of scientif
 - [cartodb](https://github.com/CartoDB/cartodb)
 - cesium
 - mapbox (not opensource)
+- https://kepler.gl/
 
 ### Visual programming
 - Rete.js, a node based interface for visual programming in javascript. A nifty framework to make your own custom node based interfaces, been using it now for a project and it gave a good base to build our own node based visualization interface. 
